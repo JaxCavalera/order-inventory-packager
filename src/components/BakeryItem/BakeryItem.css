@@ -1,0 +1,26 @@
+.bakeryog__bakery-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 4vw;
+    width: 65vw;
+    margin: 1vw 0;
+}
+
+.bakeryog__bakery-item-name {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 4vw;
+    margin-right: 2vw;
+    font-size: 3vw;
+}
+
+.bakeryog__bakery-item-input {
+    display: flex;
+    box-sizing: border-box;
+    justify-content: center;
+    height: 4vw;
+    text-align: center;
+    font-size: 3vw;
+}
